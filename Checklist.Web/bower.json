@@ -1,0 +1,19 @@
+{
+  "name": "Checklist.Web",
+  "authors": [
+    "eatsleeptraincode <eatsleeptraincode@gmail.com>"
+  ],
+  "description": "Checklist application",
+  "main": "Global.asax",
+  "moduleType": [],
+  "license": "None",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
